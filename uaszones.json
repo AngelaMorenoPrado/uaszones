@@ -329,7 +329,7 @@
           "NATURE"
         ],
         "region": 0,
-        "type": "REQ_AUTHORIZATION",
+        "type": "NO_RESTRICTION",
         "variant": "COMMON",
         "zoneAuthority": [
           {
@@ -698,10 +698,10 @@
           }
         ],
         "reason": [
-          "POPULATION"
+          "NATURE"
         ],
         "region": 0,
-        "type": "CONDITIONAL",
+        "type": "NO_RESTRICTION",
         "variant": "COMMON",
         "zoneAuthority": [
           {
@@ -1070,10 +1070,10 @@
           }
         ],
         "reason": [
-          "NOISE"
+          "NATURE"
         ],
         "region": 0,
-        "type": "REQ_AUTHORIZATION",
+        "type": "NO_RESTRICTION",
         "variant": "COMMON",
         "zoneAuthority": [
           {
@@ -1442,10 +1442,10 @@
           }
         ],
         "reason": [
-          "PRIVACY"
+          "NATURE"
         ],
         "region": 0,
-        "type": "PROHIBITED",
+        "type": "NO_RESTRICTION",
         "variant": "COMMON",
         "zoneAuthority": [
           {
@@ -1814,10 +1814,10 @@
           }
         ],
         "reason": [
-          "NOISE"
+          "NATURE"
         ],
         "region": 0,
-        "type": "PROHIBITED",
+        "type": "NO_RESTRICTION",
         "variant": "COMMON",
         "zoneAuthority": [
           {
