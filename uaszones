@@ -1,0 +1,482 @@
+
+{
+    "features": [
+        {
+            "geometry": {
+                "geometries": [
+                    {
+                        "coordinates": [
+                            [
+                                [
+                                    -6.635742187500001,
+                                    39.04478604850143
+                                ],
+                                [
+                                    -5.537109375000001,
+                                    38.75408327579141
+                                ],
+                                [
+                                    -6.1962890625,
+                                    37.96152331396614
+                                ],
+                                [
+                                    -6.635742187500001,
+                                    39.04478604850143
+                                ]
+                            ]
+                        ],
+                        "layer": {
+                            "lower": 11,
+                            "lowerReference": "AGL",
+                            "uom": "m",
+                            "upper": 111,
+                            "upperReference": "AGL"
+                        },
+                        "type": "Polygon"
+                    }
+                ],
+                "type": "GeometryCollection"
+            },
+            "properties": {
+                "country": "ESP",
+                "dataSource": {
+                    "creationDateTime": "2025-01-21T17:05:02.143+01:00",
+                    "originator": "cispadminuser",
+                    "updateDateTime": "2025-01-28T17:05:02.143+01:00"
+                },
+                "extendedProperties": {
+                    "clearanceRequired": "NO"
+                },
+                "identifier": "0545527",
+                "limitedApplicability": [
+                    {
+                        "schedule": [
+                            {
+                                "day": [
+                                    "MON",
+                                    "FRI"
+                                ],
+                                "endTime": "00:59:59.00Z",
+                                "startTime": "01:00:00.00Z"
+                            }
+                        ]
+                    }
+                ],
+                "message": [
+                    {
+                        "lang": "en-GB",
+                        "text": "a"
+                    },
+                    {
+                        "lang": "es-ES",
+                        "text": "a"
+                    }
+                ],
+                "name": [
+                    {
+                        "lang": "es-ES",
+                        "text": "zona"
+                    },
+                    {
+                        "lang": "en-GB",
+                        "text": "zona"
+                    }
+                ],
+                "reason": [
+                    "NATURE"
+                ],
+                "region": 0,
+                "type": "NO_RESTRICTION",
+                "variant": "COMMON",
+                "zoneAuthority": [
+                    {
+                        "contactName": [
+                            {
+                                "lang": "en-GB",
+                                "text": "a"
+                            },
+                            {
+                                "lang": "es-ES",
+                                "text": "a"
+                            }
+                        ],
+                        "email": "a@gmail.com",
+                        "name": [
+                            {
+                                "lang": "es-ES",
+                                "text": "ENAIRE CISP Administrators"
+                            },
+                            {
+                                "lang": "en-GB",
+                                "text": "ENAIRE CISP Administrators"
+                            }
+                        ],
+                        "phone": "+34 987 65 43 21",
+                        "purpose": "INFORMATION",
+                        "service": [
+                            {
+                                "lang": "en-GB",
+                                "text": "a"
+                            },
+                            {
+                                "lang": "es-ES",
+                                "text": "a"
+                            }
+                        ],
+                        "siteURL": "https://www.google.es"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "geometries": [
+                    {
+                        "coordinates": [
+                            [
+                                [
+                                    -1.197509765625,
+                                    40.91766362458114
+                                ],
+                                [
+                                    -1.3128662109375002,
+                                    40.85537053192496
+                                ],
+                                [
+                                    -1.3458251953125002,
+                                    40.734770989672406
+                                ],
+                                [
+                                    -1.1865234375000002,
+                                    40.67647212850004
+                                ],
+                                [
+                                    -1.0327148437500002,
+                                    40.68063802521456
+                                ],
+                                [
+                                    -0.9887695312500001,
+                                    40.76806170936614
+                                ],
+                                [
+                                    -1.0162353515625002,
+                                    40.90936126702326
+                                ],
+                                [
+                                    -1.197509765625,
+                                    40.91766362458114
+                                ]
+                            ]
+                        ],
+                        "layer": {
+                            "lower": 0,
+                            "lowerReference": "AGL",
+                            "uom": "m",
+                            "upper": 200,
+                            "upperReference": "AGL"
+                        },
+                        "type": "Polygon"
+                    }
+                ],
+                "type": "GeometryCollection"
+            },
+            "properties": {
+                "country": "ESP",
+                "dataSource": {
+                    "creationDateTime": "2024-12-13T12:44:20.832+01:00",
+                    "originator": "autousergeo",
+                    "updateDateTime": "2024-12-13T12:44:20.832+01:00"
+                },
+                "extendedProperties": {
+                    "clearanceRequired": "YES"
+                },
+                "identifier": "0545116",
+                "limitedApplicability": [
+                    {}
+                ],
+                "message": [
+                    {
+                        "lang": "en-GB",
+                        "text": "aa"
+                    },
+                    {
+                        "lang": "es-ES",
+                        "text": "aa"
+                    }
+                ],
+                "name": [
+                    {
+                        "lang": "es-ES",
+                        "text": "Clearance required"
+                    },
+                    {
+                        "lang": "en-GB",
+                        "text": "Clearance requiered"
+                    }
+                ],
+                "reason": [
+                    "NATURE"
+                ],
+                "region": 0,
+                "type": "PROHIBITED",
+                "variant": "COMMON",
+                "zoneAuthority": [
+                    {
+                        "contactName": [
+                            {
+                                "lang": "en-GB",
+                                "text": "Indra user"
+                            },
+                            {
+                                "lang": "es-ES",
+                                "text": "Indra user"
+                            }
+                        ],
+                        "email": "indra@indra.es",
+                        "name": [
+                            {
+                                "lang": "en-GB",
+                                "text": "ENAIRE CISP Administrators"
+                            },
+                            {
+                                "lang": "es-ES",
+                                "text": "ENAIRE CISP Administrators"
+                            }
+                        ],
+                        "phone": "+34 987 65 43 21",
+                        "purpose": "INFORMATION",
+                        "service": [
+                            {
+                                "lang": "es-ES",
+                                "text": "Indra"
+                            },
+                            {
+                                "lang": "en-GB",
+                                "text": "Indra"
+                            }
+                        ],
+                        "siteURL": "http://www.indra.es"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.8452148437500004,
+                    37.73596920859053
+                ],
+                "extent": {
+                    "radius": 90044,
+                    "subType": "Circle"
+                },
+                "layer": {
+                    "lower": 1,
+                    "lowerReference": "AGL",
+                    "uom": "m",
+                    "upper": 111,
+                    "upperReference": "AGL"
+                },
+                "type": "Point"
+            },
+            "properties": {
+                "country": "ESP",
+                "dataSource": {
+                    "creationDateTime": "2025-01-21T16:56:31.737+01:00",
+                    "originator": "cispadminuser",
+                    "updateDateTime": "2025-01-21T16:56:31.737+01:00"
+                },
+                "extendedProperties": {
+                    "clearanceRequired": "NO"
+                },
+                "identifier": "0545525",
+                "limitedApplicability": [
+                    {
+                        "schedule": [
+                            {
+                                "day": [
+                                    "MON"
+                                ],
+                                "endTime": "00:59:59.00Z",
+                                "startTime": "01:00:00.00Z"
+                            }
+                        ]
+                    }
+                ],
+                "message": [
+                    {
+                        "lang": "es-ES",
+                        "text": ""
+                    },
+                    {
+                        "lang": "en-GB",
+                        "text": ""
+                    }
+                ],
+                "name": [
+                    {
+                        "lang": "en-GB",
+                        "text": "prueba"
+                    },
+                    {
+                        "lang": "es-ES",
+                        "text": "prueba"
+                    }
+                ],
+                "reason": [
+                    "NATURE"
+                ],
+                "region": 0,
+                "type": "NO_RESTRICTION",
+                "variant": "COMMON",
+                "zoneAuthority": [
+                    {
+                        "contactName": [
+                            {
+                                "lang": "es-ES",
+                                "text": "a"
+                            },
+                            {
+                                "lang": "en-GB",
+                                "text": "a"
+                            }
+                        ],
+                        "email": "a@gmail.com",
+                        "name": [
+                            {
+                                "lang": "en-GB",
+                                "text": "ENAIRE CISP Administrators"
+                            },
+                            {
+                                "lang": "es-ES",
+                                "text": "ENAIRE CISP Administrators"
+                            }
+                        ],
+                        "phone": "+34 987 65 43 21",
+                        "purpose": "INFORMATION",
+                        "service": [
+                            {
+                                "lang": "es-ES",
+                                "text": "a"
+                            },
+                            {
+                                "lang": "en-GB",
+                                "text": "a"
+                            }
+                        ],
+                        "siteURL": "https://www.google.es"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.042480469,
+                    40.396764306
+                ],
+                "extent": {
+                    "radius": 41913,
+                    "subType": "Circle"
+                },
+                "layer": {
+                    "lower": 0,
+                    "lowerReference": "AGL",
+                    "uom": "m",
+                    "upper": 200,
+                    "upperReference": "AGL"
+                },
+                "type": "Point"
+            },
+            "properties": {
+                "country": "ESP",
+                "dataSource": {
+                    "creationDateTime": "2024-12-13T12:21:25.363+01:00",
+                    "originator": "autousergeo",
+                    "updateDateTime": "2025-01-16T11:12:02.417+01:00"
+                },
+                "extendedProperties": {
+                    "clearanceRequired": "YES"
+                },
+                "identifier": "0545105",
+                "limitedApplicability": [
+                    {
+                        "startDateTime": "2024-12-01T01:00:00.000+01:00"
+                    }
+                ],
+                "message": [
+                    {
+                        "lang": "es-ES",
+                        "text": "aa"
+                    },
+                    {
+                        "lang": "en-GB",
+                        "text": "aa"
+                    }
+                ],
+                "name": [
+                    {
+                        "lang": "es-ES",
+                        "text": "Zona UAS suspendida edit"
+                    },
+                    {
+                        "lang": "en-GB",
+                        "text": "UAS Zone suspendededit"
+                    }
+                ],
+                "reason": [
+                    "NATURE"
+                ],
+                "region": 0,
+                "type": "PROHIBITED",
+                "variant": "COMMON",
+                "zoneAuthority": [
+                    {
+                        "contactName": [],
+                        "email": "indra@indra.es",
+                        "name": [
+                            {
+                                "lang": "es-ES",
+                                "text": "ENAIRE CISP Administrators"
+                            },
+                            {
+                                "lang": "en-GB",
+                                "text": "ENAIRE CISP Administrators"
+                            }
+                        ],
+                        "phone": "+34 987 65 43 21",
+                        "purpose": "INFORMATION",
+                        "service": [
+                            {
+                                "lang": "es-ES",
+                                "text": "Indra"
+                            },
+                            {
+                                "lang": "en-GB",
+                                "text": "Indra"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "issued": "2025-01-24T14:36:12.000Z",
+        "provider": [
+            {
+                "lang": "en-GB",
+                "text": "sCISP"
+            },
+            {
+                "lang": "es-ES",
+                "text": "sCISP"
+            }
+        ]
+    },
+    "type": "FeatureCollection"
+}
