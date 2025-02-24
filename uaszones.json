@@ -326,7 +326,7 @@
           }
         ],
         "reason": [
-          "NATURE"
+          "POPULATION"
         ],
         "region": 0,
         "type": "CONDITIONAL",
@@ -699,10 +699,10 @@
           }
         ],
         "reason": [
-          "NOISE"
+          "POPULATION"
         ],
         "region": 0,
-        "type": "PROHIBITED",
+        "type": "NO_RESTRICTION",
         "variant": "COMMON",
         "zoneAuthority": [
           {
@@ -1071,10 +1071,10 @@
           }
         ],
         "reason": [
-          "PRIVACY"
+          "NATURE"
         ],
         "region": 0,
-        "type": "CONDITIONAL",
+        "type": "PROHIBITED",
         "variant": "COMMON",
         "zoneAuthority": [
           {
@@ -1113,8 +1113,7 @@
             ],
             "siteURL": "https://www.google.es"
           }
-        ],
-        "restriction_conditions": "AND NO_PHOTOGRAPH"
+        ]
       },
       "type": "Feature"
     },
@@ -1444,10 +1443,10 @@
           }
         ],
         "reason": [
-          "PRIVACY"
+          "POPULATION"
         ],
         "region": 0,
-        "type": "NO_RESTRICTION",
+        "type": "REQ_AUTHORIZATION",
         "variant": "COMMON",
         "zoneAuthority": [
           {
@@ -1816,10 +1815,10 @@
           }
         ],
         "reason": [
-          "EMERGENCY"
+          "POPULATION"
         ],
         "region": 0,
-        "type": "NO_RESTRICTION",
+        "type": "CONDITIONAL",
         "variant": "COMMON",
         "zoneAuthority": [
           {
@@ -1858,7 +1857,8 @@
             ],
             "siteURL": "https://www.google.es"
           }
-        ]
+        ],
+        "restriction_conditions": "AND NO_PHOTOGRAPH"
       },
       "type": "Feature"
     }
