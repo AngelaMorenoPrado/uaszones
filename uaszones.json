@@ -326,7 +326,7 @@
           }
         ],
         "reason": [
-          "NATURE"
+          "EMERGENCY"
         ],
         "region": 0,
         "type": "NO_RESTRICTION",
@@ -1070,7 +1070,7 @@
           }
         ],
         "reason": [
-          "NATURE"
+          "NOISE"
         ],
         "region": 0,
         "type": "NO_RESTRICTION",
@@ -1442,7 +1442,7 @@
           }
         ],
         "reason": [
-          "NATURE"
+          "PRIVACY"
         ],
         "region": 0,
         "type": "NO_RESTRICTION",
@@ -1814,7 +1814,7 @@
           }
         ],
         "reason": [
-          "NATURE"
+          "NOISE"
         ],
         "region": 0,
         "type": "NO_RESTRICTION",
