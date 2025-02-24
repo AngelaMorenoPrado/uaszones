@@ -329,7 +329,7 @@
           "NATURE"
         ],
         "region": 0,
-        "type": "NO_RESTRICTION",
+        "type": "REQ_AUTHORIZATION",
         "variant": "COMMON",
         "zoneAuthority": [
           {
@@ -698,7 +698,7 @@
           }
         ],
         "reason": [
-          "NATURE"
+          "EMERGENCY"
         ],
         "region": 0,
         "type": "PROHIBITED",
@@ -1070,10 +1070,10 @@
           }
         ],
         "reason": [
-          "EMERGENCY"
+          "NATURE"
         ],
         "region": 0,
-        "type": "NO_RESTRICTION",
+        "type": "CONDITIONAL",
         "variant": "COMMON",
         "zoneAuthority": [
           {
@@ -1442,10 +1442,10 @@
           }
         ],
         "reason": [
-          "POPULATION"
+          "EMERGENCY"
         ],
         "region": 0,
-        "type": "CONDITIONAL",
+        "type": "PROHIBITED",
         "variant": "COMMON",
         "zoneAuthority": [
           {
@@ -1484,8 +1484,7 @@
             ],
             "siteURL": "https://www.google.es"
           }
-        ],
-        "restriction_conditions": "AND NO_PHOTOGRAPH"
+        ]
       },
       "type": "Feature"
     },
@@ -1815,7 +1814,7 @@
           }
         ],
         "reason": [
-          "PRIVACY"
+          "NATURE"
         ],
         "region": 0,
         "type": "NO_RESTRICTION",
